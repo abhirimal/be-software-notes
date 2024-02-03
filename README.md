@@ -19,7 +19,6 @@ Found a mistake or want to add your notes? Contributions are welcome! Fork the r
 ## Notes Structure
 
 - Each semester folder contains notes for various courses.
-- Use the table of contents within each folder to easily locate the topic you're interested in.
 
 ## Support
 
